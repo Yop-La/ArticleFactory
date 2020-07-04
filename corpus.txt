@@ -1,0 +1,2779 @@
+Project Gutenberg's Technique of Eye Dissections, by Frederic A. Woll
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: Technique of Eye Dissections
+
+Author: Frederic A. Woll
+
+Release Date: July 2, 2020 [EBook #62544]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TECHNIQUE OF EYE DISSECTIONS ***
+
+
+
+
+Produced by deaurider, Harry Lame and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+
+
+  Transcriber’s Notes
+
+  Italics text has been transcribed _between underscores_. Small
+  capitals have been replaced with ALL CAPITALS.
+
+  More Transcriber’s Notes may be found at the end of this text.
+
+
+
+
+  The eye--it cannot choose but see.
+
+  --_Wordsworth._
+
+
+
+
+[Illustration: Brain, showing eyes with muscles removed, optic nerves,
+and chiasm.]
+
+
+
+
+  TECHNIQUE
+  OF
+  EYE DISSECTIONS
+
+  BY
+
+  FREDERIC A. WOLL, Ph.D.,
+
+  _Associate Professor, Department of Hygiene, College of the
+  City of New York; Optometry Courses, Columbia University;
+  Member of New York State Board of Examiners in Optometry;
+  Honorary Member: American Optometric Association; State
+  Societies--Alabama, California, Connecticut, Kentucky, Maine,
+  Massachusetts, North Carolina, Rhode Island; Local Societies--Lehigh
+  Valley Society of Optometrists, Mahoning Valley Optometrists’
+  Society, and Optometrists’ Club of Brooklyn_.
+
+  _SECOND EDITION_
+
+  [Illustration]
+
+  NEW YORK
+  FREDERIC A. WOLL
+  1924
+
+
+
+
+  COPYRIGHT, 1914, BY
+  FREDERIC A. WOLL
+  _Printed in the United States of America_
+  First Edition, July, 1914
+  Second Edition, April, 1924
+
+
+  SCHLUETER PRINTING CO., NEW YORK
+
+
+
+
+  DEDICATION
+
+  THIS LITTLE BOOK IS DEDICATED WITH AFFECTION
+  AND ESTEEM TO MY FIRST TEACHER
+  IN OPTICS, MY FRIEND FOR YEARS
+
+  ANDREW JAY CROSS
+
+  WHOSE RESEARCH IN THE FIELD OF APPLIED
+  OPTICS HAS WON FOR HIM RECOGNITION
+  AND HONOR
+
+
+
+
+CONTENTS
+
+
+                                                                    PAGE
+
+  Preface                                                             13
+
+  Introduction                                                        17
+
+  Removal of Hyaloid Membrane with Contents and Attachments Intact    25
+
+  Canal of Petit, The                                                 35
+
+  Interior of the Eye, The                                            38
+
+  Posterior Half, The                                                 40
+
+  Optic Nerve, The                                                    47
+
+  Anterior Half, The                                                  49
+
+  Iris, The                                                           51
+
+  Cornea, The                                                         52
+
+  Crystalline Lens, The                                               53
+
+  Choroid, The                                                        62
+
+  Retina, The                                                         74
+
+  Sagittal or Vertical Section of the Eye, The                        86
+
+  Papilla, Puncta Lacrimalia, and Nasal Duct, The                     92
+
+  Meibomian Glands and Ducts, The                                     96
+
+  Enucleation of the Orbital Contents, The                            97
+
+  Ophthalmoscopic Examinations                                       106
+
+  Lacrimal Ducts, The                                                112
+
+  Lacrimal Gland, The                                                114
+
+  Capsule of Tenon, The                                              115
+
+  Superior Oblique Muscle and its Pulley                             117
+
+  Other Extrinsic Muscles, The                                       118
+
+  Three Tunics of the Eye, the Hyaloid and its Attachments, The      120
+
+
+
+
+ILLUSTRATIONS
+
+
+                                                                    PAGE
+
+   0. Brain showing eyes with muscles removed, optic nerves, and
+      chiasm                                              _Frontispiece_
+
+   1. Glassware and tools                                             22
+
+   2. The first cut                                                   28
+
+   3. How the point of the scissors is kept away from the underlying
+      tissues                                                         29
+
+   4. Half of the sclerotic separated                                 30
+
+   5. Picking up the choroid                                          31
+
+   6. Emptying the eye of its contents                                32
+
+   7. Isolated hyaloid, contents and attachments intact               33
+
+   8. Petit’s Canal                                                   36
+
+   9. Cutting eye into anterior and posterior sections with
+      safety-razor blade                                              39
+
+  10. Posterior half showing retinal vessels and choroid              40
+
+  11. Showing network of vitreous                                     42
+
+  12. Tearing retina away from posterior half of eye                  44
+
+  13. Posterior half of eye with retina removed                       45
+
+  14. Excavated posterior half of eye                                 46
+
+  15. Split optic nerve                                               47
+
+  16. Ciliary processes and the lens                                  48
+
+  17. How to pull off vitreous                                        50
+
+  18. Processus Zonuloe                                               54
+
+  19. Onion-like layers of lens removed                               56
+
+  20. Cross section of lens                                           57
+
+  21. Lenses showing the results of different kinds of treatment      60
+
+  22. Puncturing the cornea                                           63
+
+  23. Removing the cornea                                             64
+
+  24. How to separate the choroid from the sclerotic                  65
+
+  25. Cutting away the separated sclerotic                            67
+
+  26. Scraping the choroid free from the sclerotic                    68
+
+  27. The isolated choroid                                            69
+
+  28. Inserting scalpel to loosen lens and cut through vitreous       70
+
+  29. Taking out lens and “core” of vitreous                          71
+
+  30. Squeezing out remaining part of vitreous                        72
+
+  31. Cutting through the iris                                        75
+
+  32. Cutting around the ciliary ring                                 76
+
+  33. Lens, iris, and part of vitreous removed                        77
+
+  34. How to force blowpipe into the vitreous                         78
+
+  35. Bulging out of vitreous caused by blowing air through glass
+      blowpipe                                                        79
+
+  36. Showing vitreous removed                                        80
+
+  37. Folding the retina by blowing air at it through blowpipe        81
+
+  38. Suspended retina. Sclerotic ready to be cut away                82
+
+  39. Showing sclerotic nearly all cut away                           83
+
+  40. Isolated retina                                                 84
+
+  41. The beginning of the cutting of the eye for sagittal sections   87
+
+  42. Method of cutting through the crystalline lens                  88
+
+  43. Cutting through cornea to complete the sagittal sections        89
+
+  44. Sagittal section enlarged                                       90
+
+  45. Part of calf’s head showing knitting needles inserted in
+      puncta                                                          93
+
+  46. Course of knitting needles showing the course of the
+      canaliculi                                                      94
+
+  47. Initial cuts to be made in the skin                             98
+
+  48. First cut in bones of orbit                                     99
+
+  49. All the cuts to be made in bones of orbit                      100
+
+  50. How to pry bone loose                                          101
+
+  51. Dissecting close to bones of orbit                             102
+
+  52. Excavated orbit                                                103
+
+  53. Anterior view of enucleated eye                                104
+
+  54. Side view of enucleated eye. All parts _in situ_               104
+
+  55. Enlarging pupil for ophthalmoscopic inspection                 107
+
+  56. How to get rid of the pucker in the cornea                     108
+
+  57. Window cut in the eye                                          110
+
+  58. Pins inserted in lacrimal ducts                                112
+
+  59. Capsule of Tenon blown up                                      115
+
+  60. Showing the extrinsic muscles of the eye                       118
+
+  61. Cutting through the iris                                       120
+
+  62. Scraping ciliary processes free. Choroid cut around ciliary
+  ring                                                               121
+
+  63. Cutting away choroid                                           122
+
+  64. Three tunics, hyaloid, and lens                                123
+
+
+
+
+PREFACE
+
+
+The aim of this booklet is to present to the eye-specialist, the
+teacher, the student, and others interested in the study of the anatomy
+and physiology of the eye, some definite methods to follow in the
+dissection of that organ.
+
+Most dissections of the eye are not made with the same degree of care
+and skill used in the dissections of other organs. In following the
+usual method of dissecting eyes, much of the important detail is lost.
+Often certain membranes are confounded with others, and wrongly
+demonstrated. Furthermore, an eye is merely divided by some
+demonstrators into an anterior and a posterior half, a very short time
+is spent by the students scrutinizing each half; then the text-book is
+turned to, and the anatomy is studied descriptively.
+
+Not enough time has been given to thoroughly dissecting all parts of the
+eye. As much time should be given as is necessary to bring out
+prominently all its parts. Other organs of the body are more thoroughly
+dissected, and, therefore, the student has better opportunity to gain a
+clearer comprehension and better understanding of the anatomy and
+physiology of those organs. Also, as much time should be given,
+proportionately, to the learning of the technique of the dissection of
+the eye as is given to the learning of the technique of dissecting other
+organs of the body.
+
+Many now make a direct specialty of ministering to those suffering from
+errors of ocular refraction, ocular diseases, and ocular reflexes, and
+for those specialists, principally, this book is written. It is to
+fulfil its mission to them by acting as a guide and as a complement to
+the descriptive matter in the text-book. It is sent forth in the hope
+that it will tend to create more interest in the study of the practical
+anatomy of the eye. It is written with a desire to stimulate the ability
+to make careful and intelligent observation. It carries with it, as a
+final end, an earnest wish that it may, in some small way, be the means
+of opening up to the original researcher, a larger field for the
+further study of the most important of the senses--the eyesight.
+
+Most of the dissections explained in the following pages are original;
+some, however, are only revisions of old methods.
+
+This opportunity is taken to acknowledge the many helpful suggestions
+that were made by Dr. Ivin Sickels, of the College of the City of New
+York, and by the late Dr. Edward C. Spitzka, of New York. Thanks are due
+Mr. E. F. Howes, of Messrs. Swift & Co., for furnishing the necessary
+supply of beef eyes; to Messrs. Lee & Beach, photographers, of New York,
+for their painstaking efforts in producing good photographs of the
+actual dissections; and to Schlueter Printing Company, of New York, for
+their many courtesies and interest in the production of the book.
+
+  FREDERIC A. WOLL.
+
+  _New York, July 21, 1914._
+
+
+
+
+INTRODUCTION
+
+
+In eye dissections it is unnecessary to have either a large equipment of
+instruments or a special room. To have a laboratory at one’s disposal is
+but a small added convenience. Not to have it, is no serious hindrance.
+The work may be carried on and successfully done in one’s office or in
+the home, as well as in class-room or laboratory. If it is true that the
+atmosphere of a laboratory adds zeal to the efforts of a worker, but
+there is no laboratory available, then reverse the order; let the zeal
+of the worker add to the atmosphere of the place in which he is doing
+his work.
+
+Two things, among others to be mentioned later, are essential; a table
+of convenient height, and a good light, natural or artificial. Both are
+but modest needs. Compared with other dissections, there will be found
+an absence of offensive odors. Neither are there any repulsive
+sensations experienced. Such experiences are quite common when making
+other kinds of dissections. This work is clean and attractive. Indeed,
+one may even develop a rather keen sense of the æsthetic. Many of the
+various parts of the eye, when separated and properly preserved, then
+viewed and inspected, are bound to bring forth exclamations of
+appreciation and wonderment. One can then better understand the
+statement: “When Nature perfected the first eye she took a day off so
+she could admire the result of her finest piece of handiwork.”
+
+This does not imply that dissections of the eye tend to develop art
+appreciation. Appreciation of the wonderful in Nature’s construction of
+the special organs is not, however, to be relegated to a distant point.
+Such appreciation is concomitant with the knowledge that comes from
+having seen, handled, and examined the object studied.
+
+The orchestra leader must have a good listening and hearing ear. This is
+developed in him because he has to exercise constantly his power of
+listening and hearing. The dissector who would become proficient in eye
+dissections and in anatomical investigations must have a good seeing
+eye and a dextrous hand. To acquire these two most valuable aids
+necessary to carry on careful inquiry or research, it is essential to
+practise using the eye and the hand. Combined with the expertness of
+these two, must be the ability to continue one’s efforts in the face of
+failure; to redouble one’s efforts to attain success despite the
+shortcomings of eye or hand. This simply means practise and patience.
+And the one who is without that wonderful virtue, patience, will never
+stay long enough with his problem to gain either an observing eye or an
+expert hand, or to achieve his end, and thereby reap the full and
+pleasing results of his efforts. In order of importance, patience really
+precedes dexterity, skill, and observation; and persistence of effort is
+a factor not to be entirely outshone by any other virtue. With these
+attributes, knowledge of the subject in hand naturally follows.
+
+One reason why eye dissections are easily carried on is because material
+can always be readily procured. Any butcher will furnish sheep, pig, or
+beef eyes. Or, if one has the time to visit the manager of a
+slaughter-house, and make known to him one’s needs, he will supply
+enough eyes to carry through a host of interesting dissections and
+experiments, and give sufficient material for careful, orderly, and
+fruitful study. Perhaps in no other kinds of dissections will the
+investigator find so much of interest, or have his efforts crowned with
+such abundant and satisfactory results, as in the dissections of the
+eye. But no one should try to study all parts of the eye with only one
+specimen. To try to do so is an error, and a common one often committed
+by both teachers and students. Specimens cost little or nothing, and it
+is no more trouble to prepare a half-dozen eyes for dissection than one.
+The cost of preparation, too, is but little more for a number of eyes
+than it is for one, and may be no more in some instances. Besides,
+having enough material on hand saves time in case of a failure. Also,
+one can quickly repeat a dissection, and so procure any number of
+desired specimens of specific parts, or do over again the same
+dissection on another eye just for the purpose of practise, and thus add
+to one’s dexterity. It is, therefore, strongly advocated to have plenty
+of material on hand before beginning work. Economy here is not even
+“penny wise.”
+
+The tools, or instruments, needed are but few in number; an ordinary
+scalpel, a pair of blunt tweezers, or forceps, as they are sometimes
+called; a pair of sharp-pointed tweezers, a pair of small, sharp-pointed
+scissors of about three to three and a half inches in length, and a pair
+of large scissors, about four or five inches in length, having one jaw
+sharp-pointed and one jaw blunt.
+
+For glassware, any wide-mouthed jar or bottle, such as the ordinary
+fruit or jelly jar, will do for preparing material. For clarifying
+tissues, or for preserving and keeping them, small, wide-mouthed bottles
+or vials should be used. And for temporary keeping, or for purposes of
+“running through” various fluids, the regular Stender dishes are most
+convenient. A glass graduate is almost indispensable if accuracy in
+measuring fluids is desired. (Fig. 1.)
+
+[Illustration: Fig. 1.]
+
+The chemicals needed are few in number and small in quantity: Alcohols
+in varying strength, which can be made by diluting a 95 per cent.
+alcohol, and keeping an absolute alcohol on hand. A few ounces of
+formaldehyde will make enough solutions of different strengths to be
+sufficient for the preparation and keeping of many specimens. Of other
+chemicals, such as xylol and cedar oil, only small quantities are
+needed; enough to cover a specimen. Fifteen to twenty cents worth of
+each will be an ample supply to keep on hand. All of these may be
+procured at any large drug store, and are the only chemicals required
+for doing the dissections as explained in this book.
+
+Before further advance is made, it will be best to state that this work
+deals only with methods for dissecting the various parts of an eye, and
+is primarily intended to aid in the study of the anatomy and physiology
+of the eye by being used in conjunction with such books as “Gray’s
+Anatomy,” “A Text-Book of Physiology,” by Howell, “The Anatomy and the
+Physiology of the Eye,” by Brown and Zoethout, and similar other works
+of authority. However, if it is desired to acquire only specimens, then,
+of course, no other works are necessary, and the matter contained herein
+is sufficient to enable one to procure just what is wanted.
+
+It is also wise to state here that since human eyes are hard to procure,
+and not available in large quantities, one must resort to the use of
+the eyes of animals, which are procurable in large quantities, and which
+may be used without “feelings” in the matter. Though there is a
+difference between the eyes of human beings and the eyes of other
+animals, the difference is slight and of minor importance when compared
+with the similarity of the more important parts.
+
+
+
+
+TECHNIQUE OF EYE DISSECTIONS
+
+
+
+
+REMOVAL OF THE HYALOID MEMBRANE WITH CONTENTS AND ATTACHMENTS
+INTACT[1][2]
+
+
+One of the easiest and most satisfactory dissections to attempt is the
+isolating of the hyaloid membrane with its contents and its attachments.
+The success one meets with in making this dissection will surely prove a
+strong incentive for making all the rest. For these reasons this has
+been placed first in this arrangement.
+
+In eye dissections it is quite customary, in giving directions for
+dissections, merely to mention the hyaloid membrane and its relations
+with other parts of the eye. Rarely is there any attempt made to isolate
+it. Often, too, the retina is mistaken for the hyaloid, and the retina
+then wrongly demonstrated as being attached to the choroid. Of course,
+it is impossible to separate the hyaloid from the vitreous; but a
+dissection can be made which, when placed in a glass of some kind, will
+show the hyaloid. If the following simple technique is carefully
+observed, the membrane, with all its connections, can be easily
+separated from certain other parts of the eye. Opportunity for thorough
+study and observation will then be made extremely easy.
+
+Procure the eye of either a sheep or a bullock. Instead of following the
+usual procedure of hardening in any one of the several solutions used
+for the purpose of toughening the ocular tissues, place the eye in a
+cool place and permit it to collapse a trifle. Usually two or three days
+is a sufficient length of time to accomplish the result.
+
+Experiments have shown that if an eye is too fresh the ciliary
+processes will not be easily detached from the hyaloid (zonular
+processes), and if the eye has been in a preserving fluid, the same
+result will follow. A sheep’s eye will make a better specimen even if it
+is small, because the ciliary processes are more easily separated from
+the zonular processes. If a bullock’s eye is used, it must be left in a
+cool place a day or two longer than in the case of a sheep’s eye, in
+order to permit a long enough time to elapse to allow disintegration of
+the eye to take place sufficient to have the two processes separate
+easily and cleanly.
+
+[Illustration: Fig. 2--Making the first cut. (Page 27.)]
+
+[Illustration: Fig. 3--Showing how the point of the lower jaw of the
+scissors is to be kept away from the underlying tissues. (Page 27.)]
+
+[Illustration: Fig. 4--Showing about half of the sclerotic separated.
+(Page 29.)]
+
+With a pair of dissecting forceps pinch up the sclerotic about 5 mm.
+anterior to the equator. With a pair of small, fine-pointed scissors,
+make an incision. (Fig. 2.) Next hold the eye in the left hand without
+exerting any pressure. Insert the point of the scissors into the
+incision which has been made, and cut. Be careful to keep the point of
+the scissors close to the sclerotic or an untimely puncturing of the
+choroid will occur. (Fig. 3.) Continue the cutting on a line parallel
+to the equatorial meridian and about 5 mm. anterior to it until about
+half the sclerotic has been separated. In cutting, always move the point
+of the scissors forward with a slight oscillating lateral movement.
+(Fig. 4.) While doing this, partly suspend the eyeball from the point of
+the scissors. Doing these things will tend to loosen the choroid from
+the sclerotic and prevent puncturing too soon the former mentioned
+membrane. Now apply pressure in such a manner that the lips of the cut
+sclerotic will gap. Into this put the point of the scissors and very
+carefully pick up the choroid and the retina with the point of the
+scissors and cut them. (Fig. 5.) If the choroid alone has been picked
+up and separated, the retina will show milky white or yellowish white
+underneath. The retina must then also be separated. Care must be taken
+not to go deeper than the retina or the hyaloid may be damaged. Continue
+the cutting of the choroid and the retina for a distance of about 20 mm.
+Apply enough pressure occasionally so that the vitreous will be forced
+upward and above the cut choroid and the retina. This will show whether
+any strands of the two membranes have been left uncut. If the separation
+is complete for the distance specified above, invert the eyeball,
+squeeze and shake gently over some receptacle, such as a Stender dish,
+three-fourths filled with a 2½ or 5 per cent. solution of formaldehyde,
+and the hyaloid membrane containing the vitreous, its attachments,
+suspensory ligament to the lens capsule, and lens, will drop out intact,
+as when one empties the contents of an egg. (Fig. 6.)
+
+[Illustration: Fig. 5.--Picking up the choroid with the point of the
+scissors.]
+
+[Illustration: Fig. 6--A. Hyaloid, vitreous, and lens ready to drop out
+of the eyeball.]
+
+[Illustration: Fig. 7--Photograph of dissected hyaloid membrane (A),
+with pigmented indentations of the ciliary processes, the suspensory
+ligament (B), and the crystalline lens in its capsule (C). (Page 34.)]
+
+Many times a considerable amount of pigment from the second tunic will
+remain attached to the _processus zonuloe_. This pigment may be easily
+removed by scraping it off with the sharp edge of the scalpel or by
+brushing it off with a soft, wet tooth-brush.
+
+It is unwise to use alcohol as a preservative because it produces an
+almost immediate opaqueness and hardness which spoils the specimen for
+further study.
+
+This description may give the impression that the dissection is a
+lengthy one; however, it can be done by an expert in two or three
+minutes; by a beginner in five or six minutes.
+
+For purposes of demonstration or study the specimen should be placed in
+a small bottle or a vial containing a 5 per cent. solution of
+formaldehyde. It can then be examined with hand lens or microscope.
+(Fig. 7.)
+
+  [1] Approved as an original article in _The Anatomical Record_,
+  September, 1912.
+
+  [2] This dissection, and several of the following, appeared in _The
+  Optical Journal and Review_, beginning with the issue of January 16,
+  1913.
+
+
+
+
+THE CANAL OF PETIT
+
+
+The canal of Petit is a “triangular space around the circumference of
+the lens.” That it can be “inflated through a fine blowpipe inserted
+through the suspensory ligament,” is the usual direction given. However,
+the ordinary “fine blowpipe” is much too large and too dull to be
+inserted through the suspensory ligament. Take a long medicine-dropper
+(5 or 10 cents at a drug store), or a pipette, and heat it until it is
+red hot over an alcohol lamp or a Bunsen burner; hold one end with one
+hand and the other end with a pair of tweezers. As the glass becomes
+white hot pull the tube apart. This will leave the places of separation
+pointed and sharp-edged. Use the larger of the two pieces. Sometimes the
+point or tapering end of the tube is too long and the bore too small.
+All that is necessary is to first mark off with a file the length to be
+broken off, and then that length may be snapped off, leaving a
+sharp-edged, tapering point.
+
+[Illustration: Fig. 8--A. Glass blowpipe. B. Petit’s canal.]
+
+After having completed the first dissection (the hyaloid, contents and
+attachments), and the specimen has been in the formaldehyde solution for
+ten days or two weeks, it will have become hard and tough enough to
+stand a considerable amount of rough handling. If the specimen has been
+kept in a large receptacle, such, for instance, as a jar, remove it
+with a spoon; if in a small jar or vial, empty out the fluid, then
+slide the specimen out on whatever has been prepared to receive it. Turn
+it so that the lens will be uppermost. Find the suspensory ligament in
+the Zone of Zinn. Insert the pointed end of the glass tube, close to the
+lens, and blow gently until the canal shows its sacculated construction
+by filling with air, giving the appearance of a lot of little bubbles
+surrounding the periphery of the lens. (Fig. 8.) It may be necessary to
+move the blowpipe in and out in order to find the canal, all the while
+blowing steadily through the tube.
+
+
+
+
+THE INTERIOR OF THE EYE
+
+
+For the study of the interior of the eye and its contents _in situ_
+either a fresh or a hardened eye will do; a hardened eye is preferable.
+In the dissection for isolating the hyaloid membrane, vitreous, lens,
+and other parts, the anterior and posterior halves of the evacuated eye
+may be separated entirely, and each half studied. However, the choroid
+and the retina will be more or less mutilated, and the vitreous and
+other parts will be removed. The absence of these parts will prevent one
+from receiving a definite idea of their anatomical relationships.
+Therefore, it is better to work with an entire and complete eye.
+
+[Illustration: Fig. 9--Showing method of cutting eye into anterior and
+posterior sections with safety-razor blade.]
+
+Remove all the muscles and fatty tissues from the outside of the globe;
+then cut it in half through the equator, thus dividing it into an
+anterior and a posterior half. The cutting of the sclerotic, as well as
+the underlying tissues and the vitreous, should be done with the large
+scissors; using a knife or scalpel will tend to disturb the positions of
+those tissues or so tear them that they will not be of much use for
+purposes of study. An ordinary safety-razor blade makes an excellent
+instrument for separating the eye into two halves, because it cuts
+through the tissues without tearing them in any way. (Fig. 9.) The
+rather dark colored, viscid fluid that escapes when the eye is halved
+is the perichoroidal lymph, not the aqueous, as is sometimes stated.
+
+
+THE POSTERIOR HALF
+
+The posterior half is taken first because it is the simplest and easiest
+of the two halves to dissect. In this half of the eye the retina may be
+readily seen through the vitreous; the choroid and its apparent
+iridescent colors through both vitreous and retina. (Fig. 10.) Remove
+the vitreous by simply tilting this half of the eye, and with the finger
+push out the vitreous.
+
+[Illustration: Fig. 10--The retina, retinal vessels, and iridescent
+choroid showing through the vitreous.]
+
+Sometimes the vitreous will adhere very closely to the retina. This
+occurs especially when the eye has been in formaldehyde for a long time.
+In such a case the removal of the vitreous without injuring the retina
+requires patience and care. The use of the scalpel and the scissors may
+become necessary. Another very good way to remove the vitreous is to
+take hold of the sclerotic, turn it so that the vitreous is downward,
+and then shake gently until the vitreous separates itself from the
+retina and, drops out. After the vitreous has been removed, notice its
+glassy appearance; hence its name--hyaloid body. Try to pull it apart
+with the fingers, and it will be noticed that it seems to be held
+together by more or less of a network of fibres. (Fig. 11.)
+
+[Illustration: Fig. 11--Showing how vitreous seems to be held together
+by a network of fibres. (Page 41.)]
+
+Whichever method for removing the vitreous is followed, the retina will
+be left rather badly wrinkled and out of place. If the last-mentioned
+method, which is really the best of the three described, is the one
+adopted, the retina will be left in an entirely collapsed and folded
+form. In any case, to straighten out the retina against the choroid,
+immerse the whole posterior half in water, inside uppermost. The retina
+will then slowly unfold itself and lie flat against the choroid. With
+the tweezers remove the whole half from the water; tilting it slowly to
+empty it of all the water, and, having done so, turn it down upon the
+table rather forcibly in order to help it drain itself of all the water.
+
+Notice the thinness of the retina, and, also, that the seeming
+iridescence of the choroid shows through. The optic disc, which is the
+point of entrance of the optic nerve, and the optic cup are easily
+recognized, though neither will be seen as large as when viewed in the
+living eye with an ophthalmoscope. The blood vessels of the retina, as
+they ramify outward or forward, after their entrance through the optic
+nerve through which they pass, are also very plainly seen. A closer
+inspection will show, in the very centre of the “entrance” of the optic
+nerve, a whitish, pointed vessel, about 1 or 2 mm. long. That is the
+sloughed-off and atrophied end of the hyaloid artery, which, when the
+eye was in an embryonic state, ran forward from the central artery of
+the retina through the hyaloid canal to the posterior surface of the
+lens. With the forceps pick up the peripheral edge of the retina, and,
+by pulling gently upward, tear it away from its apparent place of
+attachment to the “entrance” of the optic nerve. (Fig. 12.) When this
+has been done, there will be seen some threads protruding from the
+optic nerve. Filling the half with water will tend to separate these
+strands, which are optic-nerve elements.
+
+[Illustration: Fig. 12--Picking up the retina in order to tear it away
+from the entrance of the optic nerve.]
+
+[Illustration: Fig. 13--The lighter area is the field of iridescence of
+the choroid.]
+
+After the removal of the retina, the iridescence of the choroid
+(_tapetum lucidum_) (Fig. 13) may be examined with a hand lens, or,
+after its removal, a piece may be cut and placed under a microscope.
+This iridescence is, of course, not present in the human eye.
+(“Physiology of the Senses,” McKendrick & Snodgrass, page 101.)
+
+[Illustration: Fig. 14--Excavated posterior half of the sclerotic.]
+
+After the choroid is removed, which is accomplished in the same manner
+that the retina is removed, the inner side of the sclerotic is laid bare
+to view. The brownish color is mostly due to the presence of a small
+amount of pigment in the cells of one of the inner layers, it is also
+due, to a slight extent, to the staining influence of the perichoroidal
+fluid. (Fig. 14.)
+
+
+THE OPTIC NERVE
+
+[Illustration: Fig. 15--Enlarged to show the entrance of the optic
+nerve. (Page 48.)]
+
+The excavated posterior half may be used now to show and to study the
+construction of the optic nerve. In cutting the optic nerve away from
+the sclerotic leave at least 5 mm. of the sclerotic attached. It will
+make handling easier. With the thumb and forefinger of the left hand
+hold the nerve in such a way on the table that it will be straightened
+out lengthwise, and then, using the scalpel or a safety-razor blade,
+the latter being preferable, cut the nerve in two longitudinally. (Fig.
+15.) The cutting must be done with one movement, otherwise the nerve
+will be hacked, and will not make a good specimen. This specimen will
+show the way the nerve fibers are arranged. A cross section should be
+cut from the optic nerve of another eye, and then the two sections
+should be compared. The cross section will show the sheath of the nerve
+a little better than will the longitudinal section.
+
+[Illustration: Fig. 16--Showing ciliary processes and crystalline lens.]
+
+In cutting the longitudinal section, one is sometimes so fortunate as to
+cut through the central blood vessels of the retina. These vessels will
+show up then as a rather thin dark streak about 5 or 6 mm. long.
+
+
+THE ANTERIOR HALF
+
+The anterior half will show the lens _in situ_, the ciliary processes,
+the posterior aspects of the iris and the lens, the corona ciliaris, the
+orbicularis ciliaris, and the ora serrata. (Fig. 16.) If the eye has
+been cut in two too far forward of its equator, the ora serrata will not
+be present. The ciliary processes and posterior aspect of the lens may
+be seen to better advantage when the anterior half of the vitreous is
+removed. This is done with the dull-pointed tweezers, by catching hold
+of the vitreous at any part of its free or cut margin, and stripping it
+off both the ciliary processes and the lens, using a prying, pulling
+movement to do so. (Fig. 17.) The two layers of the pigment cells, pars
+ciliaris retinae, which cover the inner surface of the processes, may
+be removed by picking them away carefully with the tweezers. The
+processes then will be seen to be a whitish color. The pupillary edge of
+the iris rests upon the capsule of the lens, but the nearer the approach
+is to the choroidal edge the farther the iris is from the lens; thus are
+formed the anterior and the posterior chambers of the eye. The
+dissection of the sagittal section of the eye, explained further on,
+will show these two chambers in section. One will gain a much clearer
+conception of their construction in that section than in the “anterior
+half” specimen.
+
+[Illustration: Fig. 17--Anterior half, showing how to pull off vitreous.
+(Page 49.)]
+
+Now, remove the lens, using the point of the scalpel to cut through the
+suspensory ligament close to the lens. When this has been done there
+will be seen in the anterior chamber a thin, watery liquid--the aqueous
+humor.
+
+The corona ciliaris and orbicularis ciliaris may be better seen and
+studied if viewed through a hand lens.
+
+
+THE IRIS
+
+To see the iris, take hold of the cut edge of the choroid, and, gently
+pulling, separate it from its attachment to the corneo-scleral junction.
+The white ring on the anterior surface of this part of the second coat
+of the eye is the ciliary ring. With a scissors, cut around this ciliary
+ring at its outer edge. This specimen will show the anterior surface of
+the iris, and on the posterior side it will show the close relationship
+between the iris and the ciliary processes. A hand lens will help
+greatly to bring out the very interesting fine points.
+
+
+THE CORNEA
+
+After the anterior portion has had everything removed from it there will
+be left nothing but the first coat or tunic of the eye--the anterior
+portion of the sclerotic and the cornea. The way the cornea seems to fit
+into the sclerotic is not quite as one is led to believe when told that
+it fits into the sclerotic much the same way in which a watch crystal
+fits into a watch.[3] Holding this part of the eye up to a strong light
+one will see that the sclerotic seems to overlap the cornea in the
+vertical axis.
+
+By using the tweezers the cornea may be split. Nothing in the way of
+locating its layers can be recognized, however, unless a section is made
+for microscopic examination. The epithelial may be scraped off when the
+cornea is a trifle dry. This is the ocular epithelium reduced to a layer
+of flattened cells.
+
+
+THE CRYSTALLINE LENS
+
+If the preceding dissections have been done, the crystalline lens will
+already have received some notice. To study the lens properly one should
+use an eye that has not been hardened and also an eye or the lens of an
+eye that has been in a 5 per cent. solution of formaldehyde for about
+two weeks.
+
+The lens in the unhardened eye will prove too friable to permit much
+handling. The dissection should be made, however, in order to give
+opportunity to notice the crystalline clearness of the lens substance,
+its great magnifying power, its attachments, its capsule, etc. For this
+purpose it is necessary to proceed only as in the dissection for the
+“hyaloid membrane, etc.” That is, use an eye that has been kept in a
+cool place for several days, and then open it, and remove hyaloid,
+vitreous, and lens intact, as in the first dissection taken up in this
+book. To examine the specimen in detail, turn it so the lens will be
+uppermost. (Fig. 18.)
+
+To remove the lens it is necessary to separate the suspensory ligament,
+using for this purpose the small-pointed scissors. The capsule may be
+removed by picking it up on the periphery of the lens, and stripping it
+off. It will peel off about the same way that the outer skin of a bean
+or pea does.
+
+[Illustration: Fig. 18--Enlarged to show the processus zonuloe. (Page
+53.)]
+
+The tri-radiate lines on the posterior and the anterior surfaces of the
+lens will not be as clearly discernible as in the lens coming from the
+hardened eye. Close inspection and the use of a hand lens will help
+bring them out more clearly.
+
+Now, with the point of the scalpel try to separate the outer layers
+(cortex) from the harder inner layers (nucleus). This will not prove
+very successful but is suggested for the purpose of comparison when the
+same thing is done to the hardened lens.
+
+It will be found that the lens after having been in the formaldehyde
+solution is no longer crystal like, but more or less translucent. When
+viewed from either the anterior side or the posterior side, the
+tri-radiate lines on each surface will be seen to begin at the poles of
+the lens and radiate outward toward the lens equator. Holding the lens
+up to a strong light will show that though the lines on either surface
+form angles of 120 degrees, the angles formed by the lines on one side
+with the lines on the other side are 60 degrees. On the anterior surface
+of the lens the vertical line extends upward from the pole; on the
+posterior surface downward from the pole.
+
+To study the laminated structure of the lens, it is best to boil the
+lens. The best way to do that is to drop the lens from either a hardened
+or unhardened eye into boiling water. Let it boil in the water for about
+two and a half to three minutes. Longer than that time will cause the
+lens to be put out of shape, and make it so fragile that it can no
+longer be handled without having it fall apart. If the lens comes from
+an unhardened eye it might be best to boil it not more than about two
+minutes.
+
+[Illustration: Fig. 19--Showing the way the onion-like layers of the
+lens may be peeled off.]
+
+Insert the point of the scalpel carefully at one of the poles, and lift
+gently in the direction of one of the radiating lines. This will tend to
+raise one of the concentric layers, which can be easily peeled off.
+Repeat this in the direction of the other two radiating lines.
+Examining, with a hand lens, the exposed surfaces and the layers, as
+they are taken off, will show the arrangement of the lens fibres, and
+will also show plainly their directions. (Fig. 19.) To get another view
+of the onion-like layers of the lens, cut through it with a safety-razor
+blade, either longitudinally or equatorially. (Fig. 20.) The better way
+is to have enough lenses to make one of each kind. Never try to work
+with only one piece of material. If the lens is first stained with
+chromic acid the layers may be seen better, or, a simpler way is to drop
+the lens, before cutting it in two, into a carmine solution; red ink
+slightly diluted, will do.
+
+[Illustration: Fig. 20--Section through lens showing its concentric
+layers.]
+
+A lens that has been boiled and partly dissected may be placed in a 5
+per cent. formaldehyde solution, and kept indefinitely. The lens fibres,
+concentric layers, and lens laminae in such a specimen will always be
+interesting.
+
+A lens that has lost its transparency because of hardening in
+formaldehyde or boiling may be made clear and nearly transparent again
+in the following way: First: Place the lens in a 50 per cent. alcohol
+for several hours. Second: Remove the lens, and let it drain on a piece
+of blotting-paper; then place it in a 75 per cent. alcohol. Third:
+Remove the lens, as before, then place it in an 85 per cent. alcohol.
+The lens may be left in this alcohol from ten to twelve hours, after
+which length of time it should be removed and drained. Fourth: Place the
+lens in an absolute alcohol, and leave it there for ten or twelve hours.
+Several hours longer will not injure the lens, nor interfere with the
+success of the work. Fifth: Remove the lens from the absolute alcohol.
+Place it upon a piece of blotting-paper, moving it to another place on
+the blotting-paper whenever the paper around the lens seems to have
+taken up as much moisture as it can hold. Be sure that the lens has
+given up nearly all, if not all, moisture. “Running through the
+alcohols,” as this process is called, is for the purpose of dehydrating
+the tissue. It will be on the side of safety to let the lens lie exposed
+on the blotting-paper for an hour. Sometimes, if the capsule has not
+been removed, a small quantity of alcohol will remain between the lens
+and the inner surface of the capsule. This must be removed. It may be
+done by either puncturing the capsule with a pin or needle, and
+squeezing out the fluid, or by removing the capsule entirely. The latter
+is preferable.
+
+Now drop the lens into xylol. Benzine will answer, though it will not
+produce quite so clear a lens as the xylol does. At the end of 24 or 36
+hours the softer cortex will show quite clear, while the harder nucleus
+will be still cloudy. At the end of a week the whole lens, if it is a
+small one--pig, calf, sheep--will have become quite clear and
+transparent; if from a beef eye it will take longer. It sometimes takes
+nearly two weeks. In the case of a boiled lens it will take much longer
+to clear; it may take a month.
+
+Cedar oil may also be used for the purpose of clarifying or “clearing”
+the lens. Harden in the usual way, run through the alcohols, and then
+place in cedar oil. The oil, however, will stain the lens a yellowish
+brown, and the lens will not be as transparent and clear as when xylol
+is used.
+
+[Illustration: Fig. 21.
+
+A. Lens hardened in formaldehyde.
+
+B. Lens hardened in formaldehyde, run through the alcohols, and cleared
+in xylol.
+
+C. Lens hardened in formaldehyde, run through the alcohols, and cleared
+in cedar oil.
+
+D. Boiled lens.]
+
+The longer a lens is left in either of these two clarifying fluids the
+harder and smaller it will become. At the end of a month or six weeks
+the lens will have become so hard that it can no longer be cut through
+with a knife. If it is desired to halve it, a scroll saw will be found
+to be the best thing to use for this purpose. (Fig. 21.)
+
+  [3] “Anatomy and Physiology of the Eye,” Brown & Zoethout.
+
+
+
+
+THE CHOROID
+
+
+Select an eye that has had a long part of the optic nerve left on it and
+place it into a 5 per cent. solution of formaldehyde. Leave it in that
+solution for from two to three weeks. That period of time in the fluid
+will be sufficient to permit the choroid to become sufficiently
+toughened and hardened. Leaving it in the solution longer than that
+length of time will not injure the eye in any way.
+
+[Illustration: Fig. 22--Showing how to puncture the cornea. (Page 62.)]
+
+[Illustration: Fig. 23--Removing the cornea. (Page 63.)]
+
+[Illustration: Fig. 24--Showing method of inserting the scalpel to
+separate the choroid from the sclerotic.]
+
+After having removed the eye from the formaldehyde, wash it for a few
+moments in running water. This will remove the preserving and hardening
+fluid from the surface, and will save the hands a little from the
+effects of the fluid. Next remove all the muscles and fatty tissues from
+the sclerotic. After that has been done, puncture the cornea with the
+pointed jaw of the scissors about 2 mm. from the corneo-scleral
+junction. (Fig. 22.) Then proceed to cut the cornea away, being careful
+not to lacerate the choroid or the iris. (Fig. 23.) The escaping aqueous
+humor will flow over the eye and make it very slippery, and, therefore,
+difficult to hold. Dip the eye in water, wash it, and then take it out
+and thoroughly dry it with a cloth. This procedure is absolutely
+necessary, and, if omitted, will surely result in the dropping of the
+eye about the time the work on the specimen is nearly finished. Insert
+the scalpel between the peripheral edge of the exposed iris and what is
+left of the cornea. With the back edge of the scalpel, gently loosen the
+choroid from the inner side of the corneo-scleral junction to which
+part it is not securely attached. (Fig. 24.) This requires only ordinary
+care, and but little skill other than that necessary to always keep the
+scalpel close to the inner surface of the sclerotic. When the
+choroid-iris edge has been detached from the inner side of the
+corneo-scleral junction, the weight of the contents of the second tunic
+will cause it to sag and give opportunity to easily separate, with the
+back edge of the scalpel, the choroid from the sclerotic for about a
+distance of from 8 to 10 mm.
+
+It has been the method in the past to force water through a blowpipe
+between the sclerotic and the choroid, in order to separate the
+attachments. It has also been the method to work under water when
+wishing to expose or isolate either the choroid or the retina. It is
+unnecessary to do either of these two things.
+
+When the sclerotic has been loosened from the choroid for about 10 mm.
+back from its cut edge around the eye, carefully cut the loosened part
+away. (Fig. 25.) Then loosen the choroid as far back as to within 1 cm.
+of the optic nerve. Cut the separated sclerotic away. It will be well to
+state here that during this dissection the specimen should not be lifted
+from the table. Keep the eye resting on the table all the time, and
+never lift it by holding it suspended from the optic nerve. Loosening
+the choroid from the sclerotic up to this point is a very easy matter;
+ordinary precaution is all that is necessary to prevent puncturing the
+choroid with the scalpel, just be sure to remember to keep the point of
+the scalpel close to the sclerotic.
+
+[Illustration: Fig. 25--Cutting away the sclerotic after it has been
+loosened from the choroid, as shown in Fig. 24.]
+
+[Illustration: Fig. 26.--Showing how to scrape the choroid free from the
+sclerotic near the optic nerve.]
+
+To remove the remaining part of the first coat is a little more
+difficult, and needs a little more care. Hold the optic nerve in the
+left hand, and pull it so that the sclerotic will pull away from the
+choroid. Then, using the cutting edge of the scalpel, scrape the choroid
+loose from the sclerotic close up to the entrance of the optic nerve.
+(Fig. 26.) Do not separate the optic nerve from the choroid. Cut away
+the remainder of the sclerotic close up to the optic nerve and the
+choroid will be free. (Fig. 27.)
+
+[Illustration: Fig. 27--Showing the choroid, the optic nerve still
+attached, the ciliary ring, and the ciliary nerves.]
+
+[Illustration: Fig. 28--Showing method of inserting scalpel in order to
+loosen the lens and cut through the vitreous.]
+
+To get a perfect specimen and completely isolated choroid, it must be
+emptied of its contents. Insert the scalpel between the lens and the
+iris, force it on through, and in such a manner as to keep the scalpel
+close to the ciliary processes. (Fig. 28.) Cut the vitreous around the
+processes. Push the scalpel further into the vitreous, and cut out the
+central part of it, just as one would cut out the core of an apple.
+(Fig. 29.) Remove the scalpel, pick out the lens and the cut centre of
+the vitreous with the broad-point tweezers, holding the choroid a trifle
+suspended by the optic nerve. The remaining part of the vitreous may be
+broken down by cutting with the scalpel, and by squeezing and crushing
+with the fingers of both hands. (Fig. 30.) The choroid will be tough
+enough to stand this treatment provided the pupil is left clear and open
+to prevent inter-choroidal pressure. After the vitreous has been removed
+the choroid will be left in a greatly collapsed condition. Dropping it
+into water and letting it fill up will make it resume its original
+shape immediately. The retina does not always come out with the
+vitreous. In such a case, the tweezers may be used to pick out the
+retina when the choroid is in a collapsed condition.
+
+[Illustration: Fig. 29--Taking out the lens and “core” of the vitreous.]
+
+[Illustration: Fig. 30--Showing how to squeeze out the remaining part of
+the vitreous (A) from the choroid. (Page 71.)]
+
+This specimen will show the vena vorticosa, the ciliary nerves, and
+their way of ramifying, and the long ciliary arteries, which run
+opposite each other and which may be recognized by their rather
+colorless, tubular appearance. The evacuated choroid makes an excellent
+specimen and one easily examined. Place it in a 3 per cent. solution of
+formaldehyde, and then examine with a skiascope, an ophthalmoscope, or
+by “oblique illumination.”
+
+This dissection is wholly original, and may be done in about five
+minutes. The old technique for doing it required at least an hour of
+time with the possibility of procuring one perfect specimen in every six
+or seven. The technique as given here will make it possible to do the
+work in not longer than five or six minutes for the beginner, and about
+four minutes for the expert.
+
+
+
+
+THE RETINA
+
+
+Isolating the retina from the other tissues requires considerable
+patience and dexterity. When the retina has been removed and placed in a
+special receptacle, it will be found that the specimen is well worth the
+little amount of time spent in making it. Previous techniques, even the
+writer’s own, sometimes took nearly two hours to do, and rarely was the
+retina isolated without puncturing or tearing it; perfect specimens were
+almost impossible. The following method will assure one of success in
+nearly every instance. Failures are almost impossible. Punctures,
+perforations, tears, etc., are rare. The beginner should isolate the
+retina in about six to seven minutes; the expert in about four and a
+half to five minutes.
+
+Select an eye with a long optic nerve, and prepare it for this
+dissection by placing it in a 10 per cent. solution of formaldehyde for
+about ten to fourteen days, but no longer. If it is left in the
+hardening fluid longer than that length of time, it will interfere with
+the easy removal of the vitreous.
+
+[Illustration: Fig. 31--Cutting through the iris. (Page 77.)]
+
+[Illustration: Fig. 32--Showing how to cut around the ciliary ring.
+(Page 77.)]
+
+The first part of this dissection is the same as the beginning of the
+dissection for the isolation of the choroid. Remove all the outside
+tissues first, and then the cornea, and about 10 mm. of the sclerotic,
+as described in the preceding dissection. (See Figs. 22, 23, 24, and
+25.) That will lay bare the iris and a few millimetres of the choroid.
+
+[Illustration: Fig. 33--Lens, iris, and part of vitreous removed. (Page
+78.)]
+
+After that has been done, turn the eye so the iris will be uppermost.
+With the tweezers pick up the pupillary margin of the iris, and with the
+fine-pointed scissors cut through the iris and the ciliary processes
+(Fig. 31); separate both from the choroid by cutting close to the
+posterior edge of the processes. (Fig. 32.) In doing that, cut partly
+through the vitreous also, but be careful not to injure the peripheral
+edge of the retina--ora serrata. After the iris has been separated from
+the choroid, cut completely through the vitreous in such a way that the
+lens will also be removed with the iris. (Fig. 33.)
+
+[Illustration: Fig. 34--Showing how to force glass blowpipe (A) into
+vitreous (B). (Page 80.)]
+
+[Illustration: Fig. 35--Showing bulging out of vitreous caused by
+blowing air through glass blowpipe. (Page 80.)]
+
+[Illustration: Fig. 36--Showing the vitreous (A) removed.]
+
+Holding the eye suspended by its optic nerve, force the glass blowpipe
+through the vitreous until it all but touches the posterior part of
+the retina (Fig. 34); blow gently at first, increasing the pressure
+until the vitreous suddenly bulges outward. (Fig. 35.) If the iris has
+been cut away close to the ora serrata, the vitreous will not only bulge
+forward, but it will fall out. If, however, it does not detach itself at
+once, insert the scalpel close to the choroid and with its flat side
+press downward until a separation occurs. Do not let the vitreous drop
+out too suddenly, because it may tear the retina. Let the vitreous
+detach itself slowly by the force of its own weight, though it will be
+well to hold some of its weight on the scalpel. (Fig. 36.)
+
+[Illustration: Fig. 37--A. Showing retina folded upon itself by blowing
+air at it through the glass blowpipe. (Page 83.)]
+
+[Illustration: Fig. 38--A. Showing folded retina suspended from its
+attachment, so sclerotic and choroid may be easily cut away. (Page 83.)]
+
+After the vitreous has been removed, turn the eye upward, and by blowing
+strongly through the blowpipe at the marginal edge of the retina, turn
+the retina upon itself. Repeat this until the retina lies in a small
+wrinkled lump at the “bottom” of the posterior part of the eye. (Fig.
+37.) Invert the eye (Fig. 38) and cut away both the choroid and the
+sclerotic close to the optic nerve. No care need be taken in doing this
+until the scissors come close to the optic nerve. (Fig. 39.)
+
+[Illustration: Fig. 39--Showing the sclerotic nearly all cut away.]
+
+[Illustration: Fig. 40--Isolated retina, with optic nerve attached.]
+
+After the choroid and the sclerotic have been cut away, drop the retina
+into some water, and it will slowly unfold itself by “ballooning” out
+into a perfect and beautiful specimen. (Fig. 40.) But, if it is desired
+to study the specimen closely, it is better to suspend it in a jar or
+bottle made of thin glass, and containing a 5 per cent. solution of
+formaldehyde. Remember that the retina is a delicate membrane in any
+state; the slightest rough handling may cause it to be torn, or
+otherwise damaged. If the vessel, in which the specimen has been placed
+and suspended, has enough preserving fluid to completely fill it, and it
+is firmly stoppered, the whole thing may be inverted, and turned in any
+direction, even abruptly, without fear of damaging the retina. This way
+of keeping the retina will give opportunity to inspect and study the
+inside as well as the outside of the membrane; the blood-vessels, and
+other important parts easily recognized.
+
+
+
+
+THE SAGITTAL OR VERTICAL SECTION OF THE EYE
+
+
+Place an eye in a 5 per cent. solution of formaldehyde for about two
+weeks. If the eye is kept in that solution longer than that time, the
+lens is apt to become so hard that in cutting it the capsule and
+suspensory ligament will be torn, and the lens will then become
+detached; if for a shorter space of time, the lens and other tissues
+will be so soft that all may be so badly torn or lacerated, that a
+perfect specimen will not be possible.
+
+It sometimes happens that in keeping a number of eyes together in a
+vessel for the purpose of hardening them in the formaldehyde solution,
+the corneas of some will be crushed in. For this dissection, select an
+eye that has the cornea in perfect condition.
+
+Remove all the outside tissues with the scissors, being particular to
+have the region immediately surrounding the optic nerve perfectly clear
+and clean. If the optic nerve is longer than 5 mm., cut it off to that
+length.
+
+[Illustration: Fig. 41--Showing the beginning of the cutting of the eye
+for sagittal sections.]
+
+[Illustration: Fig. 42--Showing method of cutting through the
+crystalline lens.]
+
+To cut the eye in two, use a safety-razor blade; never a scalpel. The
+latter is too thick, too dull, and too clumsy a tool. Begin by cutting
+through the optic nerve; dividing it as nearly as possible into halves.
+(Fig. 41.) Continue cutting through the sclerotic and all underlying
+tissues, stopping at the corneo-scleral junction, but do not, during
+this procedure, even touch the lens. After the eye has been thus partly
+separated into, as nearly as possible, two equal parts, lay it down upon
+the cornea, and, holding the razor blade in the forefingers and thumbs
+of both hands, cut the lens in two by forcing the blade down through it.
+(Fig. 42.) Partly open the cut eye to allow one jaw of the large
+scissors to enter, turn the eye over so the cornea will rest on that
+jaw, and then cut through the cornea. (Fig. 43.)
+
+[Illustration: Fig. 43--Showing method of cutting through the cornea and
+completing the two sagittal sections.]
+
+The two specimens may be kept indefinitely by placing them in a 3 per
+cent. formaldehyde solution. It will be well to remove the lens from one
+of the specimens, because it will give better opportunity to see the
+anatomical relationships. Also, these specimens should be mounted, one
+above the other, between two pieces of glass, before placing them in the
+receptacle that is to hold them.
+
+Much can be studied in such specimens. Moreover, they present to view
+the various parts of the organ of vision in such an impressive way, that
+one does not soon forget the wonderful appearance of the construction of
+this, Nature’s perfect camera. (Fig. 44.)
+
+[Illustration: Fig. 44--Sagittal section enlarged.]
+
+If another eye is cut into two parts, additional interesting specimens
+may be procured; for instance, one showing the presence of the second
+coat only, the retina having been torn out. Another good specimen may be
+made by removing all of the inner tissues, and leaving only the
+sclerotic and cornea. This specimen will show that the first coat is
+almost entirely a coat which affords strength and protection to the
+parts that lie within.
+
+
+
+
+THE PAPILLA, PUNCTA LACRIMALIA, AND NASAL DUCT
+
+
+The only way to dissect the lacrimal apparatus, other ocular
+accessories, and the extrinsic muscles, is to procure the head of some
+animal, preferably a calf’s head, because of its size. Any butcher will
+supply one for from forty to sixty cents. Have the lower jaw removed. It
+will make a less bulky piece of material to handle.
+
+Close to the inner canthus, on the inner side of each lid, will be found
+a little rounded eminence--lacrimal papilla--in the centre of which is a
+small opening--punctum lacrimalis. Both may be seen better on the lower
+lid, if it is pulled down, and on the upper lid, if it is pulled up.
+
+[Illustration: Fig. 45--Showing only a part of a calf’s head and the
+knitting-needles inserted in the puncta. (Page 94.)]
+
+[Illustration: Fig. 46.]
+
+Be supplied with two knitting-needles. Take one, lubricate its full
+length with a little vaseline, lard, oil, or any other lubricant. Insert
+the needle into the punctum of the lower lid, and push it downward and
+forward, aiming to come out in the nose a short distance from its end.
+At first it may be a little difficult to get the needle started; if so,
+just wiggle the needle, pushing it at the same time as directed, until
+the nasal duct is found. Do not remove the needle. To insert the other
+needle into the punctum of the upper lid is rather difficult; for that
+reason the punctum of the lower lid was chosen, first. Grease the
+needle, as was done to the first one, and, with a little patience and
+careful manipulation, the canal opening and its course will soon be
+found. The needle may then be pushed through until it meets the first
+one. (Fig. 45.) From the puncta lacrimalia to the place of meeting of
+the two needles, marks the course of the two canaliculi and their
+junction before they merge and form the nasal duct. Leave the needles
+where they are, and begin cutting away the skin. The needles will then
+mark the course of each canal and the duct very plainly. With the small
+scissors the canals and the duct may be loosened from the surrounding
+tissues. Or, the scalpel may be used to lay open the canals, cutting
+along over the top of the needles. (Fig. 46.)
+
+The cilia, palpebræ, palpebral conjunctiva, ocular conjunctiva, and
+other superficial ocular accessories may be examined without
+dissection.
+
+
+
+
+MEIBOMIAN GLANDS AND DUCTS
+
+
+An examination of the eyelids will show the openings of the ducts of the
+meibomian glands a short distance back of the cilia. Very fine pins or
+needles that have been greased may be easily inserted for a short
+distance into the ducts, and then a dissection made along the course of
+the duct as outlined by the presence of the inserted pins or needles.
+Another way to see the glands is to slice through the ducts, with the
+scalpel or safety-razor blade, the entire width of either eyelid. This
+will separate the glands into two parts and show their length, breadth
+and structure.
+
+
+
+
+ENUCLEATION OF THE ORBITAL CONTENTS
+
+
+The eyes one procures from a butcher or a slaughter house will always
+have the extrinsic tissues so badly cut and torn that identification of
+the various parts and their relations is impossible. Therefore, it is
+best to supply one’s self with the head of an animal, such as a sheep or
+a calf, and dissect an eye with all its extrinsic tissues intact. For
+this dissection, a hammer and a chisel are necessary in addition to the
+tools needed for doing the previous dissections.
+
+[Illustration: Fig. 47--Showing method of making the initial cuts in the
+skin. (Page 97.)]
+
+[Illustration: Fig. 48--Part of calf’s head, showing the first cut to be
+made in the bones of the orbit. (Page 102.)]
+
+[Illustration: Fig. 49--Showing all the cuts to be made through the
+bones of the orbit. (Page 102.)]
+
+Using the left orbit, begin the dissection by making an incision
+directly over the supra-orbital ridge, extending from over the inner to
+the outer canthus. At the middle of that line, make an incision, and cut
+at right angles upward to the top of the head. Next make a cut below the
+eye, extending from the outer to the inner canthus. (Fig. 47.) Loosen
+the skin from the bone with the scalpel, and lay bare the skull
+immediately over the orbit. Fold the flaps of the skin back and fasten
+them down to the skull with pins or tacks so they will not interfere
+with the work.
+
+[Illustration: Fig. 50--Showing how to pry the cut bone loose. (Page
+102.)]
+
+[Illustration: Fig. 51--“In removing orbital contents dissect close to
+the bone.”]
+
+[Illustration: Fig. 52--Showing excavated orbit. (Page 105.)]
+
+Using the hammer and the chisel, cut through the roof of the orbit at
+the middle of the supra-orbital ridge, and continue upward for about two
+and one-half inches. Do not strike hard blows, or the chisel may be
+driven through the underlying tissues. Listen for the peculiar sound
+that is heard when the bone has been completely penetrated; then remove
+the chisel. Continue until the full distance of two and one-half inches
+of bone has been separated. (Fig. 48.) Now, begin at the upper end,
+and cut through the bone downward to the right for about two inches
+toward the outer canthus. A similar line should be cut on the right of
+the centre line toward the inner canthus. This will mark out two
+irregular, triangular-shaped pieces of bone. (Fig. 49.) Remove the piece
+on the right-hand side by prying it off. (Fig. 50.) The left-hand piece
+should be pried loose and then carefully cut away with the scalpel, so
+that the pulley through which the superior oblique muscle runs its
+tendon, will not be injured. In removing the orbital contents, dissect
+close to the bone (Fig. 51), so that the periosteum will also be
+removed, and form a sort of sac or capsule in which will be contained
+the eye with all its extrinsic tissues. If difficulty is experienced in
+getting at the posterior parts of the orbit, it will be best to cut away
+as much more of the obstructing bone as is necessary. In this way the
+“capsule” containing the eye, its six muscles, the lacrimal gland, and
+both eyelids, all _in situ_, will be removed. (Fig. 54.) As the orbital
+entrance of the optic nerve is neared, care must be exercised not to cut
+into this “capsule,” or sever any of the muscles. (Fig. 52 shows the
+excavated orbit. Fig. 53 shows an anterior view of the enucleated eye.
+Fig. 54 is a side view of the enucleated eye.)
+
+[Illustration: Fig. 53--Anterior view of the enucleated eye.]
+
+[Illustration: Fig. 54--Showing the enucleated eye, its muscles, and its
+accessories, all in situ.]
+
+
+
+
+OPHTHALMOSCOPIC EXAMINATION
+
+
+By practising on an enucleated eye, one may gain considerable ability in
+the use of the ophthalmoscope, and also learn to recognize the
+blood-vessels and other important parts of the retina. To do this, the
+eye to be examined must be very fresh, for only in this condition will
+the cornea and lens be sufficiently clear to permit rays of light to
+enter the inside of the eye.
+
+However, since the pupil is oblong in shape, and often only a narrow
+slit--but several millimetres in diameter--the field presented for
+observation is a rather limited one. To increase the pupillary aperture,
+take a pin, and force the point through the cornea about three or four
+millimetres from the corneo-scleral junction, and at right angles to the
+direction of the parallel edges of the pupil. After the pin has been
+pushed through until it has reached to within a short distance (one
+millimetre) of the edge of the iris, carefully pick up the iris by
+raising the pin into a position perpendicular to the cornea, and force
+the pin further down into the eye. The pupil will have been enlarged on
+one side. Do the same thing on the opposite side, and at each extremity
+of the pupil. (Fig. 55.)
+
+[Illustration: Fig. 55--Showing one pin before the iris has been picked
+up and pulled back, and three pins after the iris has been picked up and
+pulled back.]
+
+[Illustration: Fig. 56--Showing method of gathering up the extrinsic
+tissues in order to get rid of the pucker in the cornea.]
+
+The pupil will now have been made square, and so large that no
+difficulty will be experienced in reflecting either light into the eye,
+or in examining the inside of the eye. Care must be taken not to
+lacerate the anterior surface of the lens when the iris is drawn back by
+the pins.
+
+Putting the pins into the cornea, and using them as levers with the
+point of entrance in the cornea as a fulcrum, will pucker the cornea
+considerably, and a good clear fundus cannot be obtained. This is easily
+overcome. Simply gather up all the tissues surrounding the eye, force
+them backward, and hold them firmly with the fingers of the left hand.
+(Fig. 56.) The right hand is then free to handle the skiascope or
+ophthalmoscope, so that the interior of the eye may be thoroughly
+examined.
+
+Another way to prepare an eye for ophthalmoscopic examination is as
+follows: Go to a slaughter house and procure a beef eye from an animal
+that has been killed but a few minutes previously. Placing the eye
+immediately into an 8 per cent. solution of cocaine and leaving it there
+for about an hour will dilate the pupil to such an extent that work with
+the ophthalmoscope will be made very easy. This, as indicated, can be
+done only with an eye that is very fresh.
+
+[Illustration: Fig. 57--Showing window cut in sclerotic, choroid, and
+retina.]
+
+Still another way to see the interior is to cut out a piece of the
+sclerotic about the size of a twenty-five-cent piece; then pinch up and
+tear out the choroid and the retina under the opening made in the
+sclerotic. (Fig. 57.) Hold the eye, the cornea forward, close to a
+bright light, and the image of the light will be seen upon the retina.
+The closer the light is to the eye, the greater the illumination will be
+in the interior of the eye. If the opening or “window” is close enough
+to the optic nerve, the optic papilla can be seen easily. And, if care
+has been taken to have the opening made midway between the two branches
+of the retinal artery, the entire course may be followed. The direction
+of the retinal artery can be determined by ophthalmoscopic examination.
+
+
+
+
+THE LACRIMAL DUCTS
+
+
+To find the lacrimal ducts, cut across the outer and inner canthi of the
+enucleated eye, pushing the eye forward and the lids backward. That will
+expose the conjunctiva of both eyelids and eye, and also show the
+conjunctival fornices. On the upper surface of the palpebral
+conjunctiva, and near the outer canthus, will be seen, upon close
+inspection, a number of minute openings, usually eight. These are the
+openings of the lacrimal ducts. Pins or straw that have been lubricated
+with vaseline, may be inserted and pushed into these openings for a
+considerable distance, and the course of the ducts then can be traced
+easily. (Fig. 58.)
+
+[Illustration: Fig. 58--Showing how pins may be inserted in the lacrimal
+ducts.]
+
+
+
+
+THE LACRIMAL GLAND
+
+
+The lacrimal gland is easily distinguished by its pink appearance. There
+are two parts, inferior and superior. The gland lies directly over the
+eye and near the outer angle of the orbit. In the enucleated eye, it
+will be found to lie near the outer canthus and over the eye. The gland
+may be easily dissected out of its position and then examined more
+closely. A hand lens will show the racemose construction of the gland.
+If the gland is cut in two, the racemose construction may be seen even
+better.
+
+
+
+
+THE CAPSULE OF TENON
+
+
+To dissect the capsule of Tenon, it is necessary to carefully remove the
+superficial fat and connective tissue. In text-books and illustrations,
+the capsule is usually shown as a definite sac-like membrane of
+considerable thickness, with all its parts well defined. The dissector
+will soon find that the capsule is not discerned so easily. It will be
+found to be the thin, semi-transparent, fibrous membrane that surrounds
+each muscle, as well as the “posterior two-thirds of the eye,” and is
+continuous anteriorly with the ocular conjunctiva. Portions may be
+pinched up and inflated through an inserted blow-pipe. This will help to
+merely demonstrate its location and parts. (Fig. 59.)
+
+[Illustration: Fig. 59--Enlarged to show part of the Capsule of Tenon
+blown up. (Page 116.)]
+
+
+
+
+THE SUPERIOR OBLIQUE MUSCLE AND ITS PULLEY
+
+
+After the lacrimal gland has been dissected away, a beginning will have
+been made for cutting away the fat and the connective tissue. The first
+thing to do then is to locate the superior oblique muscle. Try to keep
+track of which part of the eye is the inner side. Having located the
+inner side, feel along the top for a little hard eminence. That is the
+pulley. Begin to dissect around the pulley, not through it, and then
+follow the muscle along to its origin; do not separate the muscle from
+its origin. When the superior oblique is completely freed, the action of
+the muscle may be readily demonstrated by holding the “ring” or
+tendinous pulley with the fingers of one hand, while the muscle is
+pulled backward and forward with the other.
+
+
+
+
+THE OTHER EXTRINSIC MUSCLES
+
+
+With the dissection of Tenon’s capsule and the superior oblique muscle,
+the work of isolating the other extrinsic muscles will have begun. This
+work needs no directions except a warning to be careful not to injure
+the pulley of the superior oblique, and to be careful not to cut away
+the inferior oblique. The inferior oblique will be found to be near the
+“pulley.” If the dissection is not carried too close to the origin of
+the recti muscles, all the muscles may be kept in place.
+
+If the eye has not been previously subjected to the hardening influence
+of formaldehyde, it may be put into a 5 per cent. solution, and at the
+end of ten or twelve hours the muscles will have become rigid. They can
+then be better studied, and may be kept indefinitely. (Fig. 60.)
+
+[Illustration: Fig. 60--Showing the tendinous pulley of the superior
+oblique muscle and the extrinsic muscles.]
+
+
+
+
+THE THREE TUNICS OF THE EYE, THE HYALOID AND ITS ATTACHMENTS
+
+
+This dissection is a rather difficult one to make, and requires
+patience.
+
+[Illustration: Fig. 61--Cutting through the iris.]
+
+Prepare an eye by placing it in a 5 per cent. solution of formaldehyde
+for about ten days to two weeks. Remove all the outside tissues. Cut
+away the cornea, as in the dissection for the choroid or the retina.
+Loosen, as far back as possible, the sclerotic from the choroid. Remove
+the sclerotic for about 10 mm. back of the equator of the eye. With the
+tweezers pick up the pupillary edge of the iris. Using the small pointed
+scissors, cut through the iris. (Fig. 61.) Lift either one of the cut
+edges of the iris, and, with the sharp edge of the scalpel, gently
+scrape the _processus zonuloe_ free from the ciliary processes, cutting
+through the ciliary ring as the ciliary processes are detached from the
+hyaloid (_processus zonuloe_). (Fig. 62.)
+
+[Illustration: Fig. 62--Scraping the ciliary processes free. Showing,
+also, the choroid cut around the ciliary ring.]
+
+Great care must be taken not to thrust the point of the scissors into
+the hyaloid, suspensory ligament, or vitreous, else the lens may become
+detached.
+
+After the iris with the processes has been removed, pinch up with the
+tweezers a fold in the choroid. Make an incision with the fine-pointed
+scissors, and begin removing the choroid to within about 5 mm. of the
+cut end of the sclerotic. (Fig. 63.) Care must be taken not to penetrate
+the underlying retina while making this part of the dissection.
+
+[Illustration: Fig. 63--Cutting away the choroid.]
+
+After part of the choroid has been removed, the specimen will show the
+three coats of the eye in layer-like arrangement, the hyaloid and lens.
+The lens may now be cut away, if the specimen is preferred without it.
+Removing the lens before this time is unwise, because it acts as a
+protection to the other tissues while the specimen is being handled
+during the dissection.
+
+This specimen will show to the best advantage if it is suspended in a
+jar containing a 5 per cent. solution of formaldehyde. Figure 64 shows
+the specimen.
+
+[Illustration: Fig. 64--A. Optic nerve. B. Sclerotic. C. Choroid. D.
+Retina. E. Hyaloid. F. Lens.]
+
+
+
+
+INDEX
+
+
+  A
+
+  Accessories, ocular, 95
+
+  Alcohol as a preservative, 34
+
+  Alcohols, method of running through, 58, 59
+
+  Anterior chamber, 50, 51, 86, 90
+    half of eye, 49
+    half, removing vitreous from, 49
+    surface of lens, 55
+
+  Aperture, increasing pupillary, 106, 107, 109
+
+  Aqueous humor, 51
+
+  Arteria centralis retinæ, 43, 49
+
+  Arteries, ciliary, 72
+    course of retinal, 111
+
+  Artery of retina, central, 43, 49
+    hyaloid, 43
+
+
+  B
+
+  Beef eyes, 26, 27
+
+  Beginning of dissection of orbital contents, 97
+
+  Benzine, 59
+
+  Blood-vessels of retina, 106
+
+  Blowing through blowpipe, folding retina by, 81, 82
+
+  Blowpipe, folding retina by blowing through, 81, 82
+    glass, 35
+    using it to force out vitreous, 78-81
+
+  Body, hyaloid, 41
+
+  Boiling crystalline lens, 55, 56
+
+  Books, text, 23, 25, 46, 52
+
+
+  C
+
+  Canal, hyaloid, 43
+    of Petit, 35-37
+
+  Canaliculi, puncta, papilla, and nasal duct, locating, 92-95
+
+  Capsule of lens, 33, 50, 54
+    of lens, removing, 59
+
+  Capsule of Tenon, 115
+    of Tenon and conjunctiva, 116
+
+  Cedar oil, 60
+
+  Cells of processes, pigment, 49, 50
+
+  Central artery of retina, 43, 49
+
+  Chamber, anterior, 50, 51, 86, 90
+    posterior, 50, 51, 86, 90
+
+  Chemicals, 22, 23
+
+  Chisel and hammer, use of, 99-101
+
+  Choroid, 62
+    and sclerotic, cutting them away for isolating retina, 83
+    emptying, 69, 70
+    for dissecting three tunics, removing, 122
+    from sclerotic, for dissection of three tunics and hyaloid,
+    loosening, 120
+    iridescence of, 45
+    loosening from corneo-scleral junction, 64, 65
+    loosening sclerotic from, 64, 66, 67, 68
+    or retina, removing cornea for isolating, 62, 63, 64
+    picking up retina and, 30, 31
+    preparing eye for isolating, 62
+    preserving isolated, 72
+    removing, 46
+    removing lens from, 69, 70, 71
+    scraping sclerotic from, 68
+    separating sclerotic from, 27, 29
+
+  Cilia and other superficial accessories, 95
+
+  Ciliaris, corona, 49, 51
+    orbicularis, 49, 51
+    retinæ, pars, 49
+
+  Ciliary arteries, 72
+    nerves, 72
+    processes, 27, 33, 49
+    processes free from _processus zonuloe_, scraping, 121
+    ring, 51
+    ring, cutting ciliary, 121
+
+  Ciliary, clarifying lens, 58, 59
+
+  Coats, preparing eye for dissection to show, _in situ_, the three, 120
+
+  Cocaine, 109
+
+  Color of processes, 50
+
+  Concentric layers of lens, 56, 57
+
+  Conjunctiva and Capsule of Tenon, 116
+
+  Conjunctival fornices, 113
+
+  Cornea, epithelium of, 52
+    removing it for isolating choroid or retina, 62, 63, 64
+
+  Construction of lacrimal gland, racemose, 114
+
+  Contents, beginning of dissection of orbital, 97-101
+    dissecting orbital, 97-105
+    emptying eyeball of, 32, 33
+    enucleating orbital, 102-104
+    material for enucleation of orbital, 97
+    preserving of hyaloid, 32, 33, 34, 36
+
+  Cornea, 52
+    and sclerotic, 52
+    layers of, 52
+    smoothing it for ophthalmoscopic examination, 109
+
+  Corneo-scleral junction, loosening choroid from, 64, 65
+
+  Corona ciliaris, 49, 51
+
+  Cortex of lens, 54, 59
+
+  Course of retinal arteries, 111
+
+  Cross section of optic nerve, 48
+
+  Crystalline lens, 33, 49, 53
+    lens boiling, 55
+
+  Cutting away sclerotic and choroid for isolating retina, 83
+    ciliary ring, 121
+    cross section of optic nerve, 48
+    eye for sagittal section, 87-89
+    eye in half, 38, 39
+    iris for dissection of three tunics, 120
+    optic nerve longitudinally, 47, 48
+
+
+  D
+
+  Dehydrating lens, 58, 59
+
+  Demonstration of hyaloid, etc., 34
+
+  Disc, optic, 43
+
+  Dishes, Stender, 21
+
+  Dissected hyaloid, 33
+
+  Dissecting lacrimal gland, 114
+    nasal duct, papilla and puncta, 92
+    orbital contents, 97-105
+    of hyaloid membrane, 25, 33
+    of hyaloid, method of preparing for, 26, 27
+    of orbital contents, beginning of, 97-101
+    three tunics, removing choroid, for, 122
+
+  Dissection, preparing eye for interior, 38
+    preparing eye to show the three tunics _in situ_, 120
+    of three tunics and hyaloid, loosening choroid from sclerotic for,
+    120
+    of three tunics, cutting iris, for, 120
+
+  Duct, material for dissecting papilla, puncta, and nasal, 92
+    papilla, puncta lacrimalia, and nasal, 92
+
+  Ducts, meibomian gland and, 96
+    lacrimal, 112, 113
+
+
+  E
+
+  Emptying choroid, 69, 70
+    eyeball of contents, 32, 33
+
+  Entrance of optic nerve, 43
+
+  Enucleated eye, 104
+
+  Enucleating orbital contents, 102-104
+
+  Enucleation of orbital contents, 97-105
+    of orbital contents, material for, 97
+
+  Epithelium of cornea, 52
+
+  Equipment, 17-24
+
+  Examination, ophthalmoscopic, 106
+    preparing eye for ophthalmoscopic, 106-110
+    smoothing out cornea for ophthalmoscopic, 109
+
+  Excavated posterior half, 46, 47
+    sagittal, 90
+
+  Extrinsic muscles, other, 118
+    muscles, preserving, 119
+
+  Eye, anterior half of the, 49
+    contents, emptying, 32, 33
+    cutting it for sagittal section, 87-89
+    for dissection of hyaloid, etc., preparing, 26, 27
+    in half, cutting, 38, 39
+    interior of, 38
+    posterior half of the, 40
+    preparing for dissecting interior, 38
+    preparing it for dissection, to show the three tunics, _in situ_,
+    120
+    preparing for isolating choroid, 62
+    preparing for isolating retina, 74, 75
+    preparing for ophthalmoscopic examination of, 106-110
+    preparing for sagittal section of, 86
+    sagittal section of, 86
+    seeing interior of, 110
+    vertical section of, 86
+    cutting window in, 110
+
+  Eyelids, 95, 105
+
+  Eyes, sheep and beef, 26, 27
+
+
+  F
+
+  Fibres of lens, 56, 57
+    network of vitreous, 41, 42
+
+  Fluid, perichoroidal, 40, 46
+
+  Folding retina by blowing air through blowpipe, 81, 82
+
+  Forcing out vitreous, using blowpipe in, 78-81
+
+  Fornices, conjunctival, 113
+
+
+  G
+
+  Gland, dissecting lacrimal, 114
+    lacrimal, 114
+    racemose construction, 114
+
+  Glands and ducts, meibomian, 96
+
+  Glass blowpipe, 35
+
+  Glassware, 21
+
+
+  H
+
+  Half, anterior, 49
+    cutting eye in, 38, 39
+
+  Half, excavated posterior, 46
+    posterior, 40
+    posterior, excavated, 46
+    preparing eye for dissecting interior, 38
+    removing vitreous from anterior, 49
+    removing vitreous from posterior, 41
+
+  Hammer and chisel, use of, 99-101
+
+  Humor, aqueous, 51
+    vitreous, 33
+
+  Hyaloid and attachments, demonstration of, 34
+    artery, 43
+    body, 41
+    canal, 43
+    dissected, 33
+    membrane, dissection of, 25-33
+    membrane with contents and attachments intact, removal of, 25
+    preserving contents of, 32, 33, 34, 36
+    preserving three tunics and, 123
+
+
+  I
+
+  Image, retinal, 110
+
+  Increasing pupillary aperture, 106, 107, 109
+
+  Inferior oblique muscle, 119
+
+  Instruments, 21
+
+  Interior of the eye, 38
+    of the eye, seeing, 110
+
+  Interior section, preparing the eye for dissecting, 38
+
+  Iridescence of choroid, 45
+
+  Iridescent choroid, 40, 43
+
+  Iris, 49, 51
+    and lens, removing, 75, 77
+    and processes, removing, 121
+    for dissection of three tunics, cutting, 120
+    relation between processes and, 51, 52
+
+  Isolated choroid, preserving, 72
+
+  Isolating choroid or retina, removing cornea for, 62-64
+    choroid, preparing eye for, 62
+
+  Isolated retina, preserving, 84, 85
+
+  Isolating retina, cutting sclerotic and choroid away for, 83
+    retina, preparing eye for, 74, 75
+
+
+  J
+
+  Junction, loosening choroid from corneo-scleral, 64, 65
+
+
+  K
+
+  Knitting-needles, use of, 92-95
+
+
+  L
+
+  Lacrimal ducts, 112, 113
+    gland, 114
+    gland, dissecting, 114
+    gland, racemose construction of, 114
+
+  Lacrimalia, nasal duct, papilla, and puncta, 92
+
+  Laminated structure of lens, 55, 56
+
+  Layers, concentric lens, 56, 57
+    of cornea, 52
+    separating outer lens, 54
+
+  Lens and iris, removing, 75, 77
+    anterior surface of, 55
+    boiling of, 55, 56
+    capsule, 33, 50, 54
+    clarifying, 58, 59
+    concentric layers of, 56, 57
+    cortex of, 54, 59
+    crystalline, 33, 49, 53
+    dehydrating, 58, 59
+    fibres, 56, 57
+    laminated structure of, 55, 56
+    nucleus of, 55, 59
+    posterior surface of, 55
+    preparing the, 53
+    preserving the, 57, 58
+    removing capsule of, 59
+    removing it from choroid, 69-71
+    removing the, 51, 53
+    separating outer layers of, 54
+    staining, 57
+
+  Ligament, suspensory, 33, 37
+
+  Lines, tri-radiate, 54-56
+
+  Locating papilla, puncta, canaliculi, and nasal duct, 92-95
+
+  Longitudinally, cutting optic nerve, 47, 48
+
+  Loosening choroid from corneo-scleral junction, 64, 65
+    choroid from sclerotic, 64, 66-68
+    choroid from sclerotic, for dissection of the three tunics and
+    hyaloid, 120
+
+  Lucidum, tapetum, 45
+
+
+  M
+
+  Material, 19, 20, 21
+    for dissecting nasal duct, papilla, and puncta, 92
+    for enucleation of orbital contents, 97
+
+  Meibomian glands and ducts, 96
+
+  Membrane with contents and attachments intact, removal of, 25
+
+  Method of preparing eye for dissection of hyaloid, 26, 27
+    of running through the alcohols, 58, 59
+
+  Muscle, superior oblique and its pulley, 117
+
+  Muscles, other extrinsic, 118
+    preserving extrinsic, 119
+
+
+  N
+
+  Nasal duct, canaliculi, puncta, and papilla, locating, 92-95
+    canaliculi, puncta, and papilla, 92
+    canaliculi, puncta, and papilla, material for dissecting, 92
+
+  Needles and pins, use of, 96, 106, 107, 108, 109, 112, 113
+    use of knitting, 92-95
+
+  Nerve, cross section of optic, 48
+    entrance of optic, 43
+    optic, 47
+    optic, cutting it longitudinally, 47, 48
+
+  Nerves, ciliary, 72
+
+  Network of fibres in vitreous, 41, 42
+
+  Nucleus of lens, 55, 59
+
+
+  O
+
+  Oblique, inferior, 119
+    pulley of superior, 117
+
+  Ocular accessories, 95
+    conjunctiva and Capsule of Tenon, 116
+    conjunctiva and other superficial accessories, 95
+
+  Oil, cedar, 60
+
+  Ophthalmoscope, 109
+
+  Ophthalmoscopic examination, 106
+    examination, preparing eye for, 106-110
+    examination, smoothing out cornea for, 109
+
+  Optic disc, 43
+    nerve, 47
+    nerve, cross section of, 48
+    nerve, cutting it longitudinally, 47, 48
+    nerve, entrance of, 43
+    papilla, 111
+
+  Ora serrata, 49
+
+  Orbicularis ciliaris, 49, 51
+
+  Orbital contents, beginning dissection of, 97-101
+    contents, dissecting, 97-105
+    contents, enucleating, 102-104
+    contents, enucleation of, 97
+    contents, material for enucleation of, 97
+
+
+  P
+
+  Palpebræ and other superficial accessories, 95
+
+  Palpebral conjunctiva and other superficial accessories, 95
+
+  Papilla, nasal duct, and puncta lacrimalia, 92
+    nasal duct, and puncta lacrimalia, material for dissecting, 92
+    optic, 111
+    puncta, canaliculi, and nasal, duct, locating, 92-95
+
+  Pars ciliaris retinæ, 49
+
+  Perichoroidal fluid, 40-46
+
+  Petit’s canal, 35-37
+
+  Picking up choroid and retina, 30, 31
+
+  Pigment cells of processes, 49, 50
+    of sclerotic, 46
+    removal of, 34
+
+  Pinching up sclerotic, 27, 28
+
+  Pins and needles, use of, 96, 106-109, 112, 113
+
+  Pipette, 35
+
+  Posterior chamber, 50, 51, 86, 90
+    half excavated, 47
+    half of the eye, 40
+    half, removing vitreous from, 41
+    surface of the lens, 55
+
+  Preparing eye for dissecting interior, 38
+    eye for dissecting hyaloid, 26, 27
+    eye for dissection to show the three tunics, _in situ_, 120
+    eye for isolating choroid, 62
+    eye for isolating retina, 74, 75
+    eye for ophthalmoscopic examination, 106-110
+    eye for sagittal section, 86
+    the lens, 53
+
+  Preservative, alcohol as a, 34
+
+  Preserving extrinsic muscles, 119
+    hyaloid, contents and attachments, etc., 32-34, 36
+    isolated choroid, 72
+    isolated retina, 84, 85
+    lens, 57, 58
+    sagittal sections, 89
+    three tunics and hyaloid, 123
+
+  Processes, ciliary, 27, 33, 49
+    and iris, removing, 121
+    color of, 50
+    pigment cells of, 49, 50
+    relation between iris and, 51, 52
+    zonular, 27, 34
+
+  Processus zonulœ, 34
+    zonulœ free from ciliary processes, scraping, 121
+
+  Pulley of superior oblique muscle, 117
+
+  Puncta lacrimalia, nasal duct, and papilla, 92
+    lacrimalia, papilla, canaliculi, and nasal duct, locating, 92, 95
+    lacrimalia, papilla, canaliculi, and nasal duct, material for
+    dissecting, 92
+
+  Pupillary aperture increasing, 106, 107, 109
+
+
+  R
+
+  Racemose construction of lacrimal gland, 114
+
+  References, 23, 25, 46, 52
+
+  Relation between iris and processes, 51, 52
+
+  Removal of hyaloid membrane with contents and attachments intact, 25
+    of pigment from processus zonulœ, 34
+
+  Removing capsule of lens, 59
+    choroid, 46
+    cornea for isolating choroid or retina, 62-64
+    choroid for dissecting three tunics, 122
+    iris and lens, 75, 77
+    iris and processes, 121
+    lens from choroid, 69-71
+    lens from anterior half and other parts, 51, 53, 54
+    sclerotic to show the three tunics, 120
+    the retina from posterior half, 44
+    vitreous from anterior half, 49
+    vitreous from choroid, 70-72
+    vitreous from posterior half, 41
+
+  Retina, 40-74
+    blood-vessels of, 106
+    central artery of, 43, 49
+    cutting away sclerotic and choroid for isolating, 83
+    folding it by blowing air through blowpipe, 81, 82
+    or choroid, removing cornea for isolating, 62-64
+    picking up choroid and, 30, 31
+    preparing eye for isolating, 74, 75
+    preserving isolated, 84, 85
+    removing, 44
+    straightening, 42, 43
+
+  Retinæ, pars ciliaris, 49
+
+  Retinal artery, course of, 111
+    image, 110
+    vessels, 40, 49
+
+  Ring, ciliary, 51
+    cutting ciliary, 121
+    of superior oblique muscle tendinous, 117
+
+  Running through the alcohols, 58, 59
+
+
+  S
+
+  Sagittal section, cutting eye for, 87-89
+    section, excavated, 90
+    section of the eye, 86
+    section, preparing eye for, 86
+    sections, preserving, 89
+
+  Sclerotic and choroid, cutting them away for isolating retina, 83
+    and cornea, 52
+    from choroid, for dissection of three tunics and hyaloid,
+    loosening, 120
+    loosening choroid from, 64, 66-68
+    pigment of, 46
+    pinching up, 27, 28
+    scraping choroid from, 68
+    separating choroid from, 27, 29
+    to show the three tunics, removing, 120
+
+  Scraping choroid from sclerotic, 68
+    processus zonulœ free from ciliary processes, 121
+
+  Section of optic nerve, cross, 48
+    cutting eye for sagittal, 87-89
+    preparing eye for sagittal, 86
+    sagittal, 86
+    vertical, 86
+
+  Sections, preparing eye for dissecting interior, 38
+    preserving sagittal, 89
+
+  Seeing interior of eye, 110
+
+  Separating choroid from sclerotic, 27, 29, 64-68
+    outer layers of the lens, 54
+
+  Serrata, ora, 49
+
+  Sheep eyes, 26, 27
+
+  Skiascope, 109
+
+  Smoothing cornea for ophthalmoscopic examination, 109
+
+  Superior oblique muscle and its pulley, 117
+
+  Staining lens, 57
+
+  Stender dishes, 21
+
+  Straightening retina, 42, 43
+
+  Structure of lens, laminated, 55, 56
+
+  Superior oblique muscle, pulley of, 117
+
+  Surface of anterior of lens, 55
+    of posterior of lens, 55
+
+  Suspensory ligament, 55
+
+
+  T
+
+  Tapetum lucidum, 45
+
+  Tendinous ring of the superior oblique muscle, 117
+
+  Tenon and ocular conjunctiva, Capsule of, 116
+
+  Tenon’s Capsule, 115
+
+  Text-books, 23, 25, 46, 52
+
+  Three tunics, removing choroid, for dissecting, 122
+
+  Tools, 21
+
+  Tri-radiate lines, 54-56
+
+  Tunics, _in situ_, preparing eye for dissection to show the three, 120
+    preserving hyaloid and three, 123
+    removing the sclerotic, to show the three, 120
+
+
+  U
+
+  Use of hammer and chisel, 99-101
+    of knitting-needles, 92-95
+
+  Using blowpipe in forcing out vitreous, 78-81
+
+
+  V
+
+  Vena vorticosa, 72
+
+  Vertical section of the eye, 86
+
+  Vessels of retina, blood-, 40, 49, 106
+
+  Vitreous, 33
+    network of fibres in, 41, 42
+    removing from anterior half, 49
+    removing from posterior half, 41
+    using blowpipe to force out, 78-81
+
+  Vorticosa, vena, 72
+
+
+  W
+
+  Window, in eye, cutting, 110
+
+
+  X
+
+  Xylol, 59
+
+
+  Z
+
+  Zone of Zinn, 36, 37
+
+  Zonular processes, 27, 34
+
+  Zonulii Zinii, 36, 37
+
+  Zonulœ processus, 34
+
+
+
+
+  Transcriber’s Notes
+
+
+  Page 127, cutting window in: either in the wrong place alphabetically,
+  or it is an error for window, cutting in.
+
+  The (unusual) spellings zonuloe and zonulœ have been retained.
+
+
+  Changes:
+
+  Footnotes have been moved to the end of the chapter in which they are
+  referenced. Illustrations have been moved out of text paragraphs.
+
+  Some obvious minor typographical and punctuation errors have been
+  corrected silently.
+
+  In some illustrations the reference letters have been accentuated.
+
+  Page 11, 12: Illustration numbers added.
+
+  Page 127, Gland, racemose construction: page number 114 added.
+
+  Page 130: the entries iris and lens have been moved to their proper
+  place; the entry Retinæ, pars ciliaris has been moved to a separate
+  line.
+
+
+
+
+
+End of Project Gutenberg's Technique of Eye Dissections, by Frederic A. Woll
+
+*** END OF THIS PROJECT GUTENBERG EBOOK TECHNIQUE OF EYE DISSECTIONS ***
+
+***** This file should be named 62544-0.txt or 62544-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/5/4/62544/
+
+Produced by deaurider, Harry Lame and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
+T
+FRANÇAIS
+T
+OPTIONS D'EXTENSIONPLUS »

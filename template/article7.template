@@ -1,0 +1,69 @@
+<h2>[% str nb_car=44 %]</h2>
+<p>[% str nb_car=32 %]<i>[% kw_in_phrase %]</i>[% str nb_car=313 %]</p>
+<ul>
+<li>[% str nb_car=147 %]</li>
+<li>[% str nb_car=116 %]</li>
+<li>[% str nb_car=147 %]</li>
+<li>[% str nb_car=72 %]</li>
+</ul>
+<p>[% str nb_car=325 %]</p>
+<p>[% str nb_car=14 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=314 %]</p>
+<p>[% str nb_car=292 %]</p>
+<h3>[% str nb_car=33 %]</h3>
+<p>[% str nb_car=597 %]</p>
+<p>[% str nb_car=36 %]<i>[% kw_in_phrase %]</i>[% str nb_car=472 %]</p>
+<p><img alt="[% one_kw %]" src="[% url_img %]" title="[% one_kw %]"/></p>
+<h2>[% str nb_car=30 %]</h2>
+<p>[% str nb_car=12 %]<u>[% kw_in_phrase %]</u>[% str nb_car=350 %]</p>
+<p>[% str nb_car=479 %]</p>
+<p>[% str nb_car=206 %]<i>[% kw_in_phrase %]</i>[% str nb_car=189 %]</p>
+<p>[% str nb_car=310 %]</p>
+<h3>[% str nb_car=56 %]</h3>
+<p>[% str nb_car=118 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=220 %]</p>
+<p>[% str nb_car=340 %]</p>
+<p><img alt="[% one_kw %]" src="[% url_img %]" title="[% one_kw %]"/></p>
+<h2>[% str nb_car=25 %]</h2>
+<p>[% str nb_car=110 %]<i>[% kw_in_phrase %]</i>[% str nb_car=297 %]</p>
+<p>[% str nb_car=301 %]</p>
+<p>[% str nb_car=339 %]</p>
+<p>[% str nb_car=122 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=185 %]</p>
+<h3>[% str nb_car=65 %]</h3>
+<p>[% str nb_car=45 %]<a href="[% url_a %]">[% one_kw %]</a>[% str nb_car=108 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=123 %]</p>
+<p>[% str nb_car=416 %]</p>
+<p><img alt="[% one_kw %]" src="[% url_img %]" title="[% one_kw %]"/></p>
+<h2>[% str nb_car=54 %]</h2>
+<p>[% str nb_car=528 %]</p>
+<p>[% str nb_car=47 %]<i>[% kw_in_phrase %]</i>[% str nb_car=325 %]</p>
+<p>[% str nb_car=267 %]<u>[% kw_in_phrase %]</u>[% str nb_car=69 %]</p>
+<p>[% str nb_car=659 %]</p>
+<h3>[% str nb_car=28 %]</h3>
+<p>[% str nb_car=154 %]<u>[% kw_in_phrase %]</u>[% str nb_car=154 %]</p>
+<p>[% str nb_car=458 %]</p>
+<p><img alt="[% one_kw %]" src="[% url_img %]" title="[% one_kw %]"/></p>
+<h2>[% str nb_car=52 %]</h2>
+<p>[% str nb_car=288 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=19 %]</p>
+<p>[% str nb_car=278 %]</p>
+<p>[% str nb_car=244 %]<u>[% kw_in_phrase %]</u>[% str nb_car=124 %]</p>
+<p>[% str nb_car=237 %]</p>
+<h3>[% str nb_car=45 %]</h3>
+<p>[% str nb_car=268 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=165 %]</p>
+<p>[% str nb_car=370 %]</p>
+<p><img alt="[% one_kw %]" src="[% url_img %]" title="[% one_kw %]"/></p>
+<h2>[% str nb_car=43 %]</h2>
+<p>[% str nb_car=288 %]<i>[% kw_in_phrase %]</i>[% str nb_car=37 %]</p>
+<p>[% str nb_car=384 %]</p>
+<p>[% str nb_car=169 %]<u>[% kw_in_phrase %]</u>[% str nb_car=285 %]</p>
+<p>[% str nb_car=363 %]</p>
+<h3>[% str nb_car=39 %]</h3>
+<p>[% str nb_car=142 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=236 %]</p>
+<p>[% str nb_car=290 %]</p>
+<p><img alt="[% one_kw %]" src="[% url_img %]" title="[% one_kw %]"/></p>
+<h2>[% str nb_car=31 %]</h2>
+<p><strong>[% kw_in_phrase %]</strong>[% str nb_car=418 %]<a href="[% url_a %]">[% one_kw %]</a>.</p>
+<p>[% str nb_car=207 %]</p>
+<p><strong>[% kw_in_phrase %]</strong>[% str nb_car=262 %]</p>
+<p>[% str nb_car=327 %]<i>[% kw_in_phrase %]</i>[% str nb_car=160 %]</p>
+<h3>[% str nb_car=44 %]</h3>
+<p>[% str nb_car=49 %]<u>[% kw_in_phrase %]</u>[% str nb_car=82 %]</p>
+<p>[% str nb_car=330 %]</p>
+<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="[% url_iframe %]" width="560"></iframe></p>

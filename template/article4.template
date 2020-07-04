@@ -1,0 +1,28 @@
+<h2>[% str nb_car=32 %]</h2>
+<ul>
+<li>[% str nb_car=145 %]</li>
+<li>[% str nb_car=64 %]</li>
+<li>[% str nb_car=85 %]</li>
+</ul>
+<p>[% str nb_car=9 %]<a href="[% url_a %]">[% one_kw %]</a>[% str nb_car=130 %]<i>[% kw_in_phrase %]</i>[% str nb_car=593 %]<i>[% kw_in_phrase %]</i>[% str nb_car=549 %]<i>[% kw_in_phrase %]</i>[% str nb_car=553 %]</p>
+<p>[% str nb_car=81 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=599 %]<u>[% kw_in_phrase %]</u>[% str nb_car=673 %]</p>
+<p>[% str nb_car=21 %]<u>[% kw_in_phrase %]</u>[% str nb_car=589 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=764 %]<i>[% kw_in_phrase %]</i>[% str nb_car=222 %]<a href="[% url_a %]">[% one_kw %]</a>[% str nb_car=13 %]</p>
+<h3>[% str nb_car=41 %]</h3>
+<p>[% str nb_car=269 %]<i>[% kw_in_phrase %]</i>[% str nb_car=682 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=662 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=119 %]</p>
+<h3>[% str nb_car=30 %]</h3>
+<p>[% str nb_car=551 %]<i>[% kw_in_phrase %]</i>[% str nb_car=664 %]<i>[% kw_in_phrase %]</i>[% str nb_car=41 %]<a href="[% url_a %]">[% one_kw %]</a>[% str nb_car=472 %]</p>
+<p><img alt="[% one_kw %]" src="[% url_img %]" title="[% one_kw %]"/></p>
+<h2>[% str nb_car=50 %]</h2>
+<p>[% str nb_car=432 %]<u>[% kw_in_phrase %]</u>[% str nb_car=620 %]</p>
+<p>[% str nb_car=39 %]<u>[% kw_in_phrase %]</u>[% str nb_car=646 %]<u>[% kw_in_phrase %]</u>[% str nb_car=63 %]<a href="[% url_a %]">[% one_kw %]</a>[% str nb_car=404 %]</p>
+<ul>
+<li>[% str nb_car=113 %]</li>
+<li>[% str nb_car=87 %]</li>
+<li>[% str nb_car=186 %]</li>
+<li>[% str nb_car=83 %]</li>
+</ul>
+<p>[% str nb_car=306 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=660 %]<u>[% kw_in_phrase %]</u>[% str nb_car=547 %]</p>
+<h3>[% str nb_car=32 %]</h3>
+<p>[% str nb_car=509 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=592 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=288 %]<a href="[% url_a %]">[% one_kw %]</a>[% str nb_car=113 %]</p>
+<h3>[% str nb_car=44 %]</h3>
+<p>[% str nb_car=275 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=648 %]<strong>[% kw_in_phrase %]</strong>[% str nb_car=518 %]</p>

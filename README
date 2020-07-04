@@ -1,0 +1,7 @@
+Libraries ( see venv for more details ):
+- beautifulsoup4
+- shortcodes
+
+There 2 pythons files:
+- gene_template.py to generate the template from an existing bhm article ( no need to run it in degeulator ). It feeds /template
+- gene_article.py which generates articles with the template in /template
