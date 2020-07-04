@@ -5,8 +5,10 @@ import glob
 
 
 # choose a template randomly
-paths = glob.glob("../articles/*.html")
+paths = glob.glob("../template/*.template")
 path = random.choice(paths)
+
+print(path)
 
 
 # read template
@@ -39,7 +41,7 @@ def get_phrase(nb_car):
 # input scrapped on the web
 kws = ["exercice maths terminale s ","exercice maths terminale s nombres complexes","exercice maths terminale s pdf","exercice maths terminale s rattrapage","exercice maths terminale s géométrie dans l'espace","exercice maths terminale s exponentielle type bac","exercice maths terminale s","exercice maths terminale s suites","exercice maths terminale s recurrence","exercice math terminale s algorithme","exercice spé maths terminale s arithmétique","exercice de maths terminale s avec corrigé","exercice spé maths terminale s arithmétique bac","exercices corrigés spé maths terminale s arithmétique","exercices maths terminale s limites de fonctions","exercices maths terminale s limites de suites","exercices annales maths terminale s","exercice maths terminale s bac","correction exercice maths terminale s bordas","exercice maths terminale s type bac","corrigé exercice maths terminale s bordas","exercice spé maths terminale s bac","exercices maths terminale s loi binomiale","exercice spé maths terminale s type bac"]
 urls_a = ['url1_a.jpg','url2_a.jpg']
-urls_img = ['url1.jpg','url2.jpg']
+urls_img = ['https://www.courrierinternational.com/sites/ci_master/files/styles/image_original_1280/public/assets/images/github-logo.png?itok=ZpkPiIcm','https://www.courrierinternational.com/sites/ci_master/files/styles/image_original_1280/public/assets/images/github-logo.png?itok=ZpkPiIcm']
 urls_iframe = ["https://www.youtube.com/embed/mYurmWCcVkQ","https://www.youtube.com/embed/mYurmWCcVkQ"];
 
 @shortcodes.register('kw_in_phrase')
